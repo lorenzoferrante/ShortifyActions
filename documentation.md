@@ -6,7 +6,7 @@ layout: default
 
 # Documentation
 
-## URL Scheme
+## URL Scheme [BETA]
 Shortify Actions supports URL Scheme that enables to add content to it. 
 
 ## Base URL
