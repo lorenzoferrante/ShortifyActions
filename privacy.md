@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+[Back](./)
+
 # Privacy Policy
 
 The policy applies to all information collected on Shortify Actions' website and our apps for iPhone and any other devices and platforms. Your privacy is critcally important to us. Therefore our website and apps don’t collect any personally identifiable information or location data.
