@@ -10,7 +10,7 @@ layout: default
 Shortify Actions supports URL Scheme that enables to add content to it. 
 
 ## Base URL
-The base URL for Shortify Actions is simply:
+The base URL for Shortify Actions is:
 `ShortifyActions2://`
 
 ## Paths
