@@ -14,7 +14,7 @@ The base URL for Shortify Actions is:
 `ShortifyActions2://`
 
 ## Paths
-There are two paths that are currently supported, `/add` and `/addJSON`
+There are two paths that are currently supported: `/add` and `/addJSON`
 
 ## `/add`
 The `/add` path lets you add just one action. To do so, you need to specify 3 parameters:
@@ -39,7 +39,7 @@ ShortifyActions2:///add?name=Let%20It%20Be&url=https://www.youtube.com/watch?v=Q
 The `/addJSON` path lets you add a collection of items. To use this path, you need to specify one parameters: 
 - `items: JSON`
 
-The `JSON` must be formatted this way:
+The `items` parameter must be formatted this way:
 ```JSON
 {
     "items": [
