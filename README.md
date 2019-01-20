@@ -13,3 +13,5 @@ FEATURES:
 - [Documentation](./documentation.md)
 - [Privacy Policy](./privacy.html)
 - [Link to Public Beta](https://testflight.apple.com/join/lCk93Nz0)
+
+- [Contact](mailto:misterlollo96@hotmail.it)
