@@ -10,6 +10,7 @@ FEATURES:
 - Add reminded to actions
 - 4 themes: Light, Dark, Navy and Teal (more to be added)
 
+- [Timeline](./timeline.html)
 - [Documentation](./documentation.md)
 - [Privacy Policy](./privacy.html)
 - [Link to Public Beta](https://testflight.apple.com/join/lCk93Nz0)
