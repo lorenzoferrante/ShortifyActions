@@ -6,26 +6,18 @@ layout: default
 
 # Privacy Policy
 
-The policy applies to all information collected on Shortify Actions' website and our apps for iPhone and any other devices and platforms. Your privacy is critcally important to us. Therefore our website and apps don’t collect any personally identifiable information or location data.
+Your privacy is critcally important to us. Therefore our app does not collect any personally identifiable information or location data. The app stores only the data relative to your favorite countries and your profile ID on Earth2. This data is only stored in the device and not in our server, therefore we do not collect any data outside your phone.
 
-## User Files and Documents
+# Disclaimer 
+We are not affiliated in any way with Earth2.io. This is an unofficial app and we do not intend to be a replacement of the official Earth2 website and web application. What we offer is an alternative way of viewing statistical data relative to Earth2 data.\nWe wanted to build an easy way to quickly control countries trend and monitor your profile or other's profile.\nIf you like this app and you want to support our work, and the develpment of this app, you can donate what you can in the Donation section or use ours referral when buying new lands.
 
-Shortify Actions can access user's files locally and on iCloud, but it doesn't collect any sort of data about the user's files and documents. Everything stays private on the user's phone or iCloud. Any actions or files added by the user to the local database or iCloud storage is not collected by Shortify Actions or  shared with any third-party service.
+# Login Data
+We do not ask for or collect any login or credential data. Don't trust any other app or website that asks for your credentials. The only official service is Earth2.io and only there you should login.
 
-## Disclaimer
+# Consent
+By using our app, you consent to our privacy policy.
 
-Users of Shortify Actions may save or share actions that link to any kind of contents. We cannot be held responsible for actions created or shared with illegal content. 
+# Contact
+If you have any questions regarding this privacy policy, you may email: earth2companion@gmail.com
 
-## Your Consent
-
-By using our website or apps, you consent to our privacy policy.
-
-## Contact Information
-
-If you have any questions regarding this privacy policy, you may email [lorenzoferrante96@gmail.com](mailto:lorenzoferrante96@gmail.com).
-
-## Changes to This Policy
-
-We reserve the right to modify this privacy policy at any time, so please review it frequently.
-
-- **January 18, 2019:** First published.
+- **February 1, 2020:** First published.
